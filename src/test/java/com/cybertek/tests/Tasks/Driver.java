@@ -1,4 +1,4 @@
-package com.cybertek.tests.day12_review_jsexecutor_pom;
+package com.cybertek.tests.Tasks;
 
 import com.cybertek.utilities.ConfigurationReader;
 import io.github.bonigarcia.wdm.WebDriverManager;

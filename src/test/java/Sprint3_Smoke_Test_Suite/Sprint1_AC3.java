@@ -1,4 +1,4 @@
-package HelpDesk28;
+package Sprint3_Smoke_Test_Suite;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
