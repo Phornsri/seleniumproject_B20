@@ -24,7 +24,7 @@ public class Dropdown_Introduction {
     }
 
     @Test
-    public void dopdown_test_1() throws InterruptedException {
+    public void dropdown_test_1() throws InterruptedException {
         //TC#1: Verifying “Simple dropdown” and “State selection” dropdown default values
         //3. Verify “Simple dropdown” default selected value is correct
         //Expected: “Please select an option”

@@ -11,10 +11,12 @@ public class P3_NavigationsAndTitleVerification {
         //1- Open a chrome browser
         //setting up the browser driver
         WebDriverManager.chromedriver().setup();
+
         //open browser and create an instance of the driver
         WebDriver driver = new ChromeDriver();
         //2- Go to: https://www.google.com
         driver.get("https://www.google.com");
+
         //3- Click to Gmail from top right.
         driver.findElement(By.linkText("Gmail")).click();
         //we are locating the "Gmail" link web element using fineElement method and LinkText Locator.

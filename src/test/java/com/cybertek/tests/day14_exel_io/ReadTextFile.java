@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ReadTextFile {
     public static void main(String[] args) throws FileNotFoundException {
         //path to file that we want to read
+        //right click shopping_list.txt >copy >copy path > Path from content root shopping_list.txt
         String path = "shopping_list.txt";
         //File's constructor requires path to the file as an argument
         File file = new File(path);
